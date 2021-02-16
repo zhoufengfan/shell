@@ -1,3 +1,6 @@
+set -e
+# set -x
+
 aa=$1
 bb=$2
 
